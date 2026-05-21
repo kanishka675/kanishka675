@@ -2,7 +2,7 @@
 
 🎓 BTech Student  
 💻 MERN Stack Developer  
-📚 Currently learning DSA 
+📚 Currently learning DSA
 ✨ Interested in coding, and creative tech projects 
 
 ## 🚀 Tech Stack
