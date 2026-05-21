@@ -3,7 +3,7 @@
 🎓 BTech Student  
 💻 MERN Stack Developer  
 📚 Currently learning DSA
-✨ Interested in coding, and creative tech projects 
+,Interested in coding, and creative tech projects 
 
 ## 🚀 Tech Stack
 - Frontend: HTML, CSS, Javascript, React.js
